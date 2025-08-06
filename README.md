@@ -22,6 +22,7 @@ This project demonstrates how to use [LangChain](https://python.langchain.com/) 
 | 06-langchain-tools-csv-output-parser.py | Comma-separated list output parser |
 | 07-langchain-tools-pydantic-output-parser.py | Pydantic output parser for structured data |
 | 08-langchain-tools-with-structured-output.py | Direct structured output using Pydantic |
+| 09-langchain-example-chain-to-classify-sentiments.py | Sentiment classification using a LangChain chain (includes multi-step chain with parsing, summarization, and sentiment analysis) |
 
 ## Running Examples
 

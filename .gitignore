@@ -57,14 +57,33 @@ coverage.xml
 # VS Code
 .vscode/
 
-# Docker
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Docker artifacts (but not Dockerfile)
 *.dockerignore
 *.tar
 *.img
 *.log
-se*
 .docker/
-# Dockerfile
+# Do not ignore Dockerfile for learning purposes
 
 # Virtual environments
 .venv/

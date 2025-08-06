@@ -1,4 +1,6 @@
+# Core dependencies for LangChain Groq Python examples
 langchain
-dotenv
 langchain_groq
+python-dotenv
 pydantic
+# No extra dependencies required for RunnableLambda (part of langchain_core)
