@@ -24,6 +24,7 @@ This project demonstrates how to use [LangChain](https://python.langchain.com/) 
 | 08-langchain-tools-with-structured-output.py | Direct structured output using Pydantic |
 | 09-langchain-example-chain-to-classify-sentiments.py | Sentiment classification using a LangChain chain (includes multi-step chain with parsing, summarization, and sentiment analysis) |
 | 10-langchain-toolscalls-example.py | Tool calling example: Python function tool (discount calculator) with Groq |
+| 11-langchain-vector-store.py | Vector store example: In-memory vector search with OpenAI embeddings (requires OPENAI_API_KEY) |
 
 ## Running Examples
 
