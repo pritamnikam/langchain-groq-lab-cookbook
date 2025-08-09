@@ -2,6 +2,7 @@
 langchain
 langchain_groq
 langchain_openai
+langgraph
 python-dotenv
 pydantic
 # No extra dependencies required for RunnableLambda or tool calling (part of langchain_core)

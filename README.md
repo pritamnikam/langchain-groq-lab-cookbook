@@ -25,6 +25,9 @@ This project demonstrates how to use [LangChain](https://python.langchain.com/) 
 | 09-langchain-example-chain-to-classify-sentiments.py | Sentiment classification using a LangChain chain (includes multi-step chain with parsing, summarization, and sentiment analysis) |
 | 10-langchain-toolscalls-example.py | Tool calling example: Python function tool (discount calculator) with Groq |
 | 11-langchain-vector-store.py | Vector store example: In-memory vector search with OpenAI embeddings (requires OPENAI_API_KEY) |
+| 12-langgraph-simple-example.py | LangGraph simple state graph demo (no API key required) |
+| 13-langgraph-tool-calling-llm-example.py | LangGraph + LLM tool calling example (requires OPENAI_API_KEY) |
+| 14-langgraph-routing-sytem-example.py | LangGraph routing/system example with tool calls (requires OPENAI_API_KEY) |
 
 ## Running Examples
 

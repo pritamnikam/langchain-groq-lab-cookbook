@@ -28,6 +28,9 @@ ENV PYTHONUNBUFFERED=1
 # docker run --rm -it -e GROQ_API_KEY=your_key langchain-groq-demo python 09-langchain-example-chain-to-classify-sentiments.py
 # docker run --rm -it -e GROQ_API_KEY=your_key langchain-groq-demo python 10-langchain-toolscalls-example.py
 # docker run --rm -it -e OPENAI_API_KEY=your_key langchain-groq-demo python 11-langchain-vector-store.py
+# docker run --rm -it langchain-groq-demo python 12-langgraph-simple-example.py
+# docker run --rm -it -e OPENAI_API_KEY=your_key langchain-groq-demo python 13-langgraph-tool-calling-llm-example.py
+# docker run --rm -it -e OPENAI_API_KEY=your_key langchain-groq-demo python 14-langgraph-routing-sytem-example.py
 
 # Default to bash shell for flexible script execution
 ENTRYPOINT ["/bin/bash"]
